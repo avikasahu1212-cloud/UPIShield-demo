@@ -1,0 +1,8 @@
+{
+  "name": "UPIShield",
+  "description": "Enterprise payment infrastructure resilience, dependency topology, predictive failure intelligence, cascade simulation, and recovery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
